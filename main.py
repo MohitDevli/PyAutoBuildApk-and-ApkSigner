@@ -59,7 +59,7 @@ ScreenManager:
             root.manager.current='operate'
 
     Label:
-        text:'------------------------------------------------------------------------'
+        text:'-------------------------------------------------------------------------'
         pos_hint:{'center_x':0.5,'center_y':0.7}
         color:0,0,0,1
 
@@ -256,15 +256,6 @@ ScreenManager:
         on_release:
             root.genreate_key()    
 
-    Label:
-        text:'[color=#ff0015][b]Note[/b][/color]:Check here its IMP!'
-        color:0,0,0,1
-        pos_hint:{'center_x':0.75,'center_y':0.18}
-        markup:True
-
-    MDRoundFlatButton:
-        text:'Read Instrcutions.'
-        pos_hint:{'center_x':0.75,'center_y':0.10}
 
 <Operate>:
     name:'operate'
@@ -358,8 +349,7 @@ After click on sign apk button You must have to follow these steps in order to c
     Step5: Now open terminal in the directory and run following code:
     
            $ ./apksigner sign --ks Keyname.jks --out YourFinalApkName.apk YourUnalignedApkName.apk
-                                   ^^^^^^^^^^^
-                                   your key name
+                                   
                        
     Step6: This Will creted a final release signed apk for you in current directory.
     
@@ -445,7 +435,8 @@ class Operate(Screen):
 Note:Please read this Carefully if you use this first time:
 Instrcution-Make sure you are fully filled with following requirements..
     Note:All given conditions are necessey
-    
+
+Note: PLease make sure you execute this program outside your main project Folder.
     
 1> A virtual Enviroment.
 2> Buldozer pre-installed. (Guide of installtion is given below..)
@@ -456,30 +447,6 @@ Instrcution-Make sure you are fully filled with following requirements..
 
 _____________________________________________________________
 
-Virtual Enviroment:::::::
-
-    You must have a virtual enviroment in order to run buildozer and this Program.
-    Please make sure you activate your virtual enviroment first in terminal and than activate this program.
-    
-    ~ Guide of activateing Virtual Enviroment:
-        
-        > In terminal first, change directory to yur virtual env. folder
-        > than run this command:
-            $ source mykivyinstall/bin/activate
-                     ^^^^^^^^^^^^
-                     Virtual env folder name
-                     
-        >Than execute this progeram using:
-            $ python main.py
-            
-  #  ~ Guide of Installing Virtual Enviroment:        
-  #      
-  #      >First install it via 
-  #          $ python3 -m pip install -upgrade pip
-  #          $ pip3 install virtualenv
-    
-
-_____________________________________________________________
 
 Buldozer:
     ~ Guide of installing buildozer:
@@ -500,9 +467,10 @@ Some pre-installed python libraries:
 
     > cython
     > jinus
-    >requests (if your app requires a active Internet connections)
+    > requests (if your app requires a active Internet connections)
     > bs4,beautifulsoup4 (if your app requires a active Internet connections)
     > urllib3 (if your app requires a active Internet connections)
+    
 Some installed modules in system:
     
     >lld

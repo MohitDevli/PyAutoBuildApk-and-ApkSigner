@@ -9,3 +9,6 @@ So this is a good start for making apks for beginners
 Note: Please use this script outside your Project Folder
 
 <img align='middle' height="350" src="https://raw.githubusercontent.com/MohitDevli/PyAutoBuildApk/main/screenshots/Screenshot%20from%202020-12-04%2019-14-16.png"/> 
+<img align='middle' height="350" src="https://raw.githubusercontent.com/MohitDevli/PyAutoBuildApk/main/screenshots/Screenshot from 2020-12-04 19-14-30.png"/> 
+<img align='middle' height="350" src="https://raw.githubusercontent.com/MohitDevli/PyAutoBuildApk/main/screenshots/Screenshot from 2020-12-04 19-14-36.png"/> 
+<img align='middle' height="350" src="https://raw.githubusercontent.com/MohitDevli/PyAutoBuildApk/main/screenshots/Screenshot from 2020-12-04 19-14-41.png"/> 

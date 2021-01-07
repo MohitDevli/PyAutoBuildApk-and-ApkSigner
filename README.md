@@ -12,3 +12,5 @@ Note: Please use this script outside your Project Folder
 <img align='middle' height="350" src="https://raw.githubusercontent.com/MohitDevli/PyAutoBuildApk/main/screenshots/Screenshot from 2020-12-04 19-14-30.png"/> 
 <img align='middle' height="350" src="https://raw.githubusercontent.com/MohitDevli/PyAutoBuildApk/main/screenshots/Screenshot from 2020-12-04 19-14-36.png"/> 
 <img align='middle' height="350" src="https://raw.githubusercontent.com/MohitDevli/PyAutoBuildApk/main/screenshots/Screenshot from 2020-12-04 19-14-41.png"/> 
+<img align='middle' height="350" src="https://raw.githubusercontent.com/MohitDevli/PyAutoBuildApk/main/screenshots/Screenshot from 2020-12-04 19-15-37.png"/> 
+<img align='middle' height="350" src="https://raw.githubusercontent.com/MohitDevli/PyAutoBuildApk/main/screenshots/Screenshot from 2020-12-04 19-15-50.png"/> 

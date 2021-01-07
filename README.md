@@ -8,5 +8,4 @@ So this is a good start for making apks for beginners
 
 Note: Please use this script outside your Project Folder
 
-ScreenShots:
-<img height="350" src="https://raw.githubusercontent.com/MohitDevli/DigitalGlossary-MobileApp/main/screenshots/Screenshot_2020-12-26-16-08-49-674_org.digitalglossary.digitalglossarypro.digitalglossarypro.jpg"/> 
+<img height="350" src="https://raw.githubusercontent.com/MohitDevli/PyAutoBuildApk/main/screenshots/Screenshot%20from%202020-12-04%2019-14-16.png"/> 
